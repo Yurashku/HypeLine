@@ -90,6 +90,29 @@ Fields:
 - `risk`
 - `priority_label`
 
+Allowed `direction` values:
+
+- `negative`
+- `neutral_or_no_effect`
+- `positive`
+- `mixed`
+- `unknown`
+
+Allowed `rough_band` values:
+
+- `negative`
+- `near_zero`
+- `low`
+- `medium`
+- `high`
+- `unknown`
+
+Allowed `confidence` values:
+
+- `low`
+- `medium`
+- `high`
+
 Allowed `priority_label` values:
 
 - `reject`
@@ -101,7 +124,8 @@ Validation:
 
 - do not produce precise estimates without a real basis;
 - the estimate should be challengeable by an expert;
-- low evidence should lower confidence even when the idea sounds plausible.
+- low evidence should lower confidence even when the idea sounds plausible;
+- `rough_band` should describe a cautious ordinal effect range, not an exact effect size.
 
 ## Pilot Result Pack
 
