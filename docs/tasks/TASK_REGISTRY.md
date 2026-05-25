@@ -75,7 +75,7 @@ Minimum useful result:
 
 Acceptance:
 
-- a raw idea can become a claim usable by MetricDesigner and scoring;
+- a raw idea can become a claim usable by Metric Pack and scoring;
 - missing fields are explicit;
 - an expert can quickly see what is underspecified.
 
