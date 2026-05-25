@@ -30,7 +30,7 @@ raw idea
 - Keep uplift, targeting, and OPE as a separate post-pilot branch.
 - Do not mix exploratory findings with confirmed experimental learning.
 
-## Core artifacts
+## Core loop artifacts
 
 - `Intervention Claim`
 - `Metric Pack`
@@ -39,6 +39,9 @@ raw idea
 - `Pilot Result Pack`
 - `Learning Update`
 - `ExperimentMemory Record`
+
+## Extended and post-pilot artifacts
+
 - `Rerun Recommendation`
 - `Targeting Policy Pack`
 - `OPE Evaluation Pack`
