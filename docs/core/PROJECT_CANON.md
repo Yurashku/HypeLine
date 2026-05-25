@@ -88,6 +88,7 @@ The POC should prove that a team can move from idea to structured claim, metrics
 - D003: Broad effect forecasting is replaced with cautious `Expected ATE Prior`.
 - D004: Targeting, uplift, HTE, and OPE stay in a separate post-pilot branch.
 - D005: Early quality checks use worked cases, expert acceptance, and downstream usefulness before heavy benchmarks.
+- D006: `PROJECT_CANON.md` is the short human sanity-check artifact for the main project meaning.
 
 ## Non-negotiable constraints
 
