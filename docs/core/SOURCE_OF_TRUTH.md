@@ -32,7 +32,7 @@ raw product idea
 6. Every preliminary estimate must include confidence, provenance, caveats, and boundaries of use.
 7. Exploratory findings must not be mixed with confirmed experimental learning.
 
-## Core artifacts
+## Core loop artifacts
 
 - `Intervention Claim` — a raw idea converted into a testable intervention statement.
 - `Metric Pack` — decision metric, proxy outcomes, secondary metrics, guardrails, horizon, and measurement warnings.
@@ -41,6 +41,15 @@ raw product idea
 - `Pilot Result Pack` — factual pilot result separated from interpretation and deviations.
 - `Learning Update` — what the system should remember after a pilot.
 - `ExperimentMemory Record` — durable memory unit for past pilots and reusable learning.
+
+## Extended and post-pilot artifacts
+
+These artifacts are part of the current project vocabulary, but they are not required for the first core loop unless the relevant branch is active.
+
+- `Rerun Recommendation` — disciplined handling of weak or ambiguous pilot evidence.
+- `Targeting Policy Pack` — possible post-pilot targeting policy with validation requirements.
+- `OPE Evaluation Pack` — off-policy evaluation diagnostics for a candidate policy when applicable.
+- `Causal Evidence Note` — causal signal, assumptions, and confidence without overclaiming proof.
 
 ## Main modules / task areas
 
